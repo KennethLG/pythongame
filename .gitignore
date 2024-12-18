@@ -1,0 +1,51 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and debugging
+*.log
+*.out
+*.err
+logs/
+
+# Generated files (e.g., for Tkinter or temporary saves)
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Cache and profiler output
+.cache/
+*.prof
+*.profraw
+
+# Packaging artifacts
+*.wheel
+
+# Specific for Tkinter projects
+*.tcl
+*.tk
